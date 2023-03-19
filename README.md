@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Emmanuel, a final year Electrical Engineering student at KNUST :rocket: 
+
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelkyeremeh)](https://github.com/emmanuelkyeremeh/github-readme-stats)
