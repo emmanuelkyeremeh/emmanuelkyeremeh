@@ -11,6 +11,6 @@ I am a final year Electrical Engineering student at Kwame Nkrumah University of 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelkyeremeh&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelkyeremeh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emmanuelkyeremeh&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emmanuelkyeremeh&theme=nord&no-frame=false&no-bg=true&margin-w=4) -->
 
