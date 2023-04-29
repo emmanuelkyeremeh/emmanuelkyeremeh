@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year Electrical Engineering student at Kwame Nkrumah University of Science and Technology :rocket:
+I am an Electrical Engineering student at Kwame Nkrumah University of Science and Technology :rocket:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-kyeremeh-6aa7771b3/) 
