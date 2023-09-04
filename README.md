@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Electrical Engineering student at Kwame Nkrumah University of Science and Technology :rocket:
+I am a problem solver and a technology enthusiast with an interest in Software Engineering and Machine Learning :rocket:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-kyeremeh-6aa7771b3/) 
